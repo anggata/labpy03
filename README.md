@@ -73,7 +73,7 @@
 
 4.  Run kodetersebut, Lalu akan tampil hasil seperti berikut
 
-![10](https://user-images.githubusercontent.com/37316835/52938637-bff21300-3394-11e9-8f93-f49a450abb5e.png)
+![10](https://user-images.githubusercontent.com/46735995/53075196-273bce80-351f-11e9-936a-fdce7517281d.jpeg)
 
 
 Sekian TerimaKasih
